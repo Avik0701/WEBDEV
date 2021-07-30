@@ -1,0 +1,66 @@
+*{
+    padding :0px;
+    margin:0px;
+    box-sizing :border-box;
+}
+p2{
+    padding: 200px;
+    font-size: 50px;
+    color: darkorange;
+    background-color: blueviolet;
+    margin: 300px;
+    text-align: center;
+}
+.cont{
+    max-width: 80%;
+    background-color: rgb(44, 124, 161);
+    padding : 20px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: x-large;
+}
+
+input{
+    width : 400px;
+    text-align: center;
+    display: inline;
+    margin : 5px;
+    padding : 5px;
+    font-size: 10px;
+    font-style: italic;
+    border: black;
+    border: 2px solid;
+}
+input, textarea{
+    width :400px;
+    text-align: center;
+    display: inline;
+    margin : 5px;
+    padding : 5px;
+    font-size: 10px;
+    font-style: italic;
+    border: black;
+    border: 2px solid;
+}
+button{
+    padding: 5px 3px;
+    margin: 30px;
+    color: black;
+    background-color: crimson;
+    border: black;
+    border: 2px solid;
+    align-items: center;
+}
+
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    border: 10px solid;
+    border: brown;
+}
